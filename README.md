@@ -1,2 +1,1 @@
-# google-tag-manager
-versioning for tag manager components
+# Google Tag Manager - Google Consent Mode Template
