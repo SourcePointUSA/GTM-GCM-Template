@@ -5,6 +5,7 @@ Sourcepoint's Google Tag Manager (GTM) template is designed to simplify the impl
 - [Resources](#resources)
 - [Manually import template](#manually-import-template)
 
+> [!TIP]
 > Sourcepoint's GTM template is currently under review with Google so that it is directly available within the template community found in GTM. Sourcepoint will update this file with directions on how to access the template via the community once it is available.
 
 ## Resources
