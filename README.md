@@ -3,6 +3,7 @@
 Sourcepoint's Google Tag Manager (GTM) template is designed to simplify the implementation of Google Consent Mode (GCM) 2.0. In the sections below we will cover how to manually load Sourcepoint's GTM template into your GTM account.
 
 - [Resources](#resources)
+- [Download Template Repository](#download-template-repository)
 - [Manually import template](#manually-import-template)
 
 > [!TIP]
