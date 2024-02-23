@@ -1,5 +1,5 @@
 homepage: "https://www.sourcepoint.com"
 documentation: "https://docs.sourcepoint.com/hc/en-us/articles/26678365648403-Google-Consent-Mode-2-0-overview"
 versions:
-  - sha: ddcadb22a786d22fedd793b6efd34d9f1e199144
+  - sha: f78779db3b28949a84a7811904cca5eb41d9fcfa
     changeNotes: Initial release.
